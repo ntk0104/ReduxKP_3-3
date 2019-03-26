@@ -1,0 +1,3 @@
+rootProject.name = 'ReduxKP_part3'
+
+include ':app'
